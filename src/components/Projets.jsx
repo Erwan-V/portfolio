@@ -1,9 +1,9 @@
 import { projects } from "../data/projects";
 
-export default function Portfolio() {
+export default function Projets() {
   return (
     <section id="portfolio">
-      <h2>Project</h2>
+      <h2>Projets</h2>
 
       <div className="projects">
         {projects.map((project, index) => (

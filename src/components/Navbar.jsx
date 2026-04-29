@@ -5,7 +5,7 @@ export default function Navbar() {
       <ul>
         <li><a href="#about">À propos</a></li>
         <li><a href="#skills">Compétences</a></li>
-        <li><a href="#portfolio">Project</a></li>
+        <li><a href="#portfolio">Projets</a></li>
       </ul>
     </nav>
   );
