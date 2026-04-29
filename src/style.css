@@ -88,6 +88,8 @@ body {
 
 .hero-buttons {
   margin-top: 20px;
+  display: flex;
+  justify-content: center;
 }
 
 .btn {
