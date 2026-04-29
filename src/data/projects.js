@@ -17,5 +17,6 @@ export const projects = [
     title: "Portfolio",
     description:
       "Site sur lequel vous êtes actuellement, réalisé en react, html, css.",
+    image: "/image-portfolio.png",
   },
 ];
