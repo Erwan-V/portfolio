@@ -163,9 +163,12 @@ h2 {
 }
 
 .card {
+  display: block;
   background: #1e293b;
   padding: 20px;
   border-radius: 10px;
+  text-decoration: none;
+  color: white;
   transition: 0.3s;
 }
 
