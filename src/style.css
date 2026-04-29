@@ -86,15 +86,24 @@ body {
   color: #94a3b8;
 }
 
-.hero button {
+.hero-buttons {
+  margin-top: 20px;
+}
+
+.btn {
+  display: inline-block;
   background: #38bdf8;
-  border: none;
-  padding: 12px 20px;
-  margin: 0px 500px;
   color: black;
-  cursor: pointer;
+  padding: 12px 20px;
   border-radius: 8px;
   font-weight: bold;
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+.btn:hover {
+  background: #0ea5e9;
+  transform: translateY(-2px);
 }
 
 /* SECTIONS */
