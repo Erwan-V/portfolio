@@ -3,7 +3,7 @@ import { projects } from "../data/projects";
 export default function Portfolio() {
   return (
     <section id="portfolio">
-      <h2>Portfolio</h2>
+      <h2>Project</h2>
 
       <div className="projects">
         {projects.map((project, index) => (
