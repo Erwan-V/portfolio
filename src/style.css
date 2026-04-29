@@ -99,7 +99,7 @@ body {
   font-weight: bold;
   text-decoration: none;
   transition: 0.3s;
-  align-items: center;
+  text-align: center;
 }
 
 .btn:hover {
